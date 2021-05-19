@@ -1,9 +1,9 @@
-import { Router } from 'express';
+import { Router } from "express"
 
-const router = Router();
+const router = Router()
 
-router.route('/').get().post();
+router.route("/").get().post()
 
-router.route('/:id').get().patch().delete();
+router.route("/:id").get().patch().delete()
 
-export default router;
+export default router

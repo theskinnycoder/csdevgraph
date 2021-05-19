@@ -1,5 +1,3 @@
 {
-  "prettier.packageManager": "yarn",
-  "prettier.requireConfig": true,
   "editor.formatOnSave": true
 }
